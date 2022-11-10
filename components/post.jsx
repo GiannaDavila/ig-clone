@@ -6,8 +6,8 @@ export default function Post({ post }){
     return(
         <View style={styles.card}>
             <View style={styles.cardHeader}>
-            <Avatar souce={{ uri: post.profilePhoto }} rounded />
-            <Text style={styles.userName}>{post.userName}</Text>
+            <Avatar source={{ uri: post.profilePhoto }} rounded />
+            <Text style={styles.userName}>{post.username}</Text>
             </View>
             <Image source={{ uri: post.photoURL}} style={styles.image}
             PlaceholderContent={<ActivityIndicator/>}/>

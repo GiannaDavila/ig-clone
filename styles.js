@@ -22,7 +22,7 @@ cardHeader: {
 userName:{
     margin: 8,
     fontSize: 18,
-    fontWeight: 600,
+    fontWeight: '600',
 }
 
 });

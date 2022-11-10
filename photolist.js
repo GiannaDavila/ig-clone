@@ -15,7 +15,6 @@ const photolist = [
         description: 'Viejo san juan streets, with kites haning from each roof',
         username: 'Calles de San Juan', 
         profilePhoto: 'https://randomuser.me/api/portraits/men/2.jpg',
-
     },
     {
         id: 3,
