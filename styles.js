@@ -5,14 +5,13 @@ const styles=StyleSheet.create ({
    {flex: 1,
     backgroundColor: "grey",
 },card: {
-    marginVertical: 20,
+    marginVertical: 10,
 },
 description:{
      margin: 16,
 },
 image:{
     width: '100%',
-    flex: 1,
     height: 320,
 },
 cardHeader: {
